@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">learnAndroidApp</string>
-    <string name="H1">WOWWW! What\'s this</string>
+    <string name="header">WOWWW! What\'s this</string>
     <string name="button_name">I\'m a big button</string>
+    <string name="sad">SoSad MY com can\'t Run</string>
 </resources>
