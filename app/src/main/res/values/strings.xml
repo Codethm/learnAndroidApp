@@ -3,4 +3,6 @@
     <string name="header">WOWWW! What\'s this</string>
     <string name="button_name">I\'m a big button</string>
     <string name="sad">SoSad MY com can\'t Run</string>
+    <string name="txtCredits"><a href="https://developer.android.com/training/constraint-layout">https://developer.android.com/</a></string>
+
 </resources>
